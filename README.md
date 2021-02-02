@@ -7,7 +7,7 @@ A Tiny JavaScript Documentationn for beginners in the langauge
 
 
 ## Live Demo
-[go live](https://samiullah119.github.io/Covid_19_Meme)
+[go live](https://samiullah119.github.io/joking/)
 
 
 ## Built With
